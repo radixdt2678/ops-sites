@@ -15,16 +15,9 @@ $(window).scroll(function(){
   }
 });
 
+/* search */
 
-
-/* Search-bar */
-// var btn = document.getElementById("search-btn")
-// function search(){
-//   btn.click(function() {
-//     $('.hidden-menu').slideToggle("slow");
-//   });
-// }
- $(document).ready(function() {
+ $(document).ready(function search() {
   $('.show-hidden-menu').click(function() {
     $('.hidden-menu').slideToggle("slow");
   });
