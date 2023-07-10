@@ -18,11 +18,17 @@ $(window).scroll(function(){
 
 
 /* Search-bar */
-$(document).ready(function() {
+// var btn = document.getElementById("search-btn")
+// function search(){
+//   btn.click(function() {
+//     $('.hidden-menu').slideToggle("slow");
+//   });
+// }
+ $(document).ready(function() {
   $('.show-hidden-menu').click(function() {
     $('.hidden-menu').slideToggle("slow");
   });
-});
+}); 
 
 
 
