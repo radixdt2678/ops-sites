@@ -6,9 +6,7 @@
     .banner-content{
         margin-right: 0px;
     }
-    .banner-img{
-        background-position: right;
-    }
+    
     .font-size-18{
         font-size: 18px;
     }    
@@ -47,6 +45,12 @@
     }
     .font-size-45{
         font-size: 35px;
+    }
+}
+@media screen and (max-width:1191px){
+    .banner-img{
+        background-image: none;
+        background-color: #F1b100;
     }
 }
 @media screen and (max-width:991px){

@@ -3,12 +3,13 @@
 }
 
 :root{
+   
     --bg-primarys:#EEF2F5;
     --bg-grays-500:#333333;
     --bg-scondarys:#f4cd60;
     --text-border: #f1b100;
 
-    --text-yellows:#F1B100;
+    --text-yellows:#F1b100;
     --text-scondary:#666666;
     --text-grays-400:#444444;
     --text-gray-300:#999999;
