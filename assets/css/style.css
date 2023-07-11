@@ -174,7 +174,7 @@ header .navbar-toggler[aria-expanded="false"] .fa-xmark{
 }
 /* Banner */
 .banner-img{
-    background-image: url('../images/banner-img.png');
+    background-image: url('../images/banner-img.webp');
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
